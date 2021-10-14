@@ -1,0 +1,291 @@
+
+
+
+
+#sidebar.active {
+    margin-left: -250px;
+}
+
+
+
+
+
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+}
+
+#sidebar ul li a:hover {
+    color: white;
+    background: gray;
+}
+
+
+/* ---------------------------------------------------
+    CONTENT STYLE
+----------------------------------------------------- */
+
+
+
+/* ---------------------------------------------------
+    MEDIAQUERIES
+----------------------------------------------------- */
+
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+    #sidebar.active {
+        margin-left: 0;
+    }
+    #sidebarCollapse span {
+        display: none;
+    }
+}
+
+nav li a{
+    color: #ffffff;
+}
+
+/*a:hover{*/
+/*    color: #1b1e21;*/
+/*}*/
+ small{
+     background: #4e555b;
+     color: #1d2124;
+ }
+ #m3u{
+     font-family: "Lato Light";
+     font-size: 20px;
+     margin-top: 25%;
+
+
+ }
+
+ #IPTV{
+     font-family: "Lato Thin";
+     font-size: 60px;
+ }
+ #scratch{
+     font-family: "Lato Light";
+     font-size: 20px;
+ }
+
+ #jumpo{
+     margin: 3%;
+ }
+
+.colorSubFooter{
+    background: #000000;
+    color: white;
+}
+.colorSubFooter a{
+    text-decoration: none;
+    color: white;
+}
+.StayCenter{
+    margin-top: 20px;
+    margin-left: 410px;
+}
+.hehe{
+    background: #000000;
+    color: white;
+}
+.logomargin{
+    margin-left: 75px;
+}
+.GH{
+    color: white;
+}
+.JumbotronColor{
+    background: #323232;
+}
+.backgroundTextColor{
+    background: #f4f4f2;
+}
+
+ .TextStyle {
+    color: slategray;
+     font-family: "Lato Light";
+     letter-spacing: 0.3em;
+     font-size: 14px;
+}
+
+ .headingTabs{
+     font-family: "Open Sans",SansSerif;
+     font-size: 24px;
+ }
+
+ .mybtn{
+     background-color: #5a6268;
+     border-color: #00c5fb;
+     color: #fff;
+     border-color: #5a6268;
+ }
+ .mybtn:hover{
+     background-color: black;
+     color: white;
+ }
+ .mydownradius{
+     border-bottom-right-radius: 50px;
+     border-bottom-left-radius: 50px;
+ }
+ .myupradius{
+     border-top-right-radius: 50px;
+     border-top-left-radius: 50px;
+ }
+
+ .BlogHeading{
+     font-family: "Lato Thin";
+     font-size: 60px;
+
+ }
+
+ .jumColor{
+     background-color: #323232;
+ }
+ .jumTextCOlor{
+     color: white;
+ }
+
+
+
+/*==========================================================================================CARD CSS*/
+
+Edit in JSFiddle
+Result
+HTML
+CSS
+JavaScript
+Resources
+section.pricing {
+    background: #007bff;
+    background: linear-gradient(to right, #0062E6, #33AEFF);
+}
+
+.pricing .card {
+    border: none;
+    border-radius: 1rem;
+    transition: all 0.2s;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.pricing hr {
+    margin: 1.5rem 0;
+}
+
+.pricing .card-title {
+    margin: 0.5rem 0;
+    font-size: 0.9rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+}
+
+.pricing .card-price {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.pricing .card-price .period {
+    font-size: 0.8rem;
+}
+
+.pricing ul li {
+    margin-bottom: 1rem;
+}
+
+.pricing .text-muted {
+    opacity: 0.7;
+}
+
+.pricing .btn {
+    font-size: 80%;
+    border-radius: 5rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding: 1rem;
+    opacity: 0.7;
+    transition: all 0.2s;
+    background: orange;
+    border-color:  orange;
+}
+
+/* Hover Effects on Card */
+
+@media (min-width: 992px) {
+    .pricing .card:hover {
+        margin-top: -.25rem;
+        margin-bottom: .25rem;
+        box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+    }
+    .pricing .card:hover .btn {
+        opacity: 1;
+    }
+}
+
+/*card css*/
+body{margin-top:20px;}
+
+.align-center {
+    text-align: center;
+}
+.hash-list {
+    display: block;
+    padding: 0;
+    margin: 0 auto;
+}
+
+@media (min-width: 768px){
+    .hash-list.cols-3 > li:nth-last-child(-n+3) {
+        border-bottom: none;
+    }
+}
+@media (min-width: 768px){
+    .hash-list.cols-3 > li {
+        width: 33.3333%;
+    }
+}
+.hash-list > li {
+    display: block;
+    float: left;
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.pad-30, .pad-30-all > * {
+    padding: 30px;
+}
+img {
+    border: 0;
+}
+.mgb-20, .mgb-20-all > * {
+    margin-bottom: 20px;
+}
+.wpx-100, .wpx-100-after:after {
+    width: 100px;
+}
+.img-round, .img-rel-round {
+    border-radius: 50%;
+}
+.padb-30, .padb-30-all > * {
+    padding-bottom: 30px;
+}
+
+.mgb-40, .mgb-40-all > * {
+    margin-bottom: 40px;
+}
+.align-center {
+    text-align: center;
+}
+[class*="line-b"] {
+    position: relative;
+    padding-bottom: 20px;
+    border-color: #E6AF2A;
+}
+.fg-text-d, .fg-hov-text-d:hover, .fg-active-text-d.active {
+    color: #222;
+}
+.font-cond-b {
+    font-weight: 700 !important;
+}
+

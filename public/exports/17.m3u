@@ -1,0 +1,54 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="0" tvg-logo="http://i.imgur.com/Twkovic.gif" group-title="Entertainment",Newsmax TV 
+ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-logo="http://i.imgur.com/Twkovic.gif" group-title="Entertainment",Newsmax TV 
+ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-logo="http://i.imgur.com/ODIWC6n.jpg" group-title="News",Infowars Live 
+ https://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="News",RT USA 
+ https://secure-streams.akamaized.net/rt-usa/index2500.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/cOG7OSB.png" group-title="News",RT France 
+ https://secure-streams.akamaized.net/rt-fr/index.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/cOG7OSB.png" group-title="News",RT France | Youtube 
+ https://www.youtube.com/watch?v=rjcyBzzE7-A
+ #EXTINF: -1 tvg-id="0" tvg-logo="http://www.merih-news.com/wp-content/uploads/2015/06/PressTV-Logo.jpg" group-title="News",Presstv live 
+ http://204.155.154.90:1935/live/ngrp:ptven_all/playlist.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-logo="https://i.imgur.com/GBIoooY.jpg" group-title="News",EN: BLOOMBERG US HD 
+ https://bblive-liveproduswest.hs.llnwd.net/btv/desktop/us_live.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-logo="https://i.imgur.com/GBIoooY.jpg" group-title="News",EN: BLOOMBERG EUROPE 
+ https://bblive-liveprodeuwest.hs.llnwd.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-logo="https://i.imgur.com/3zfCuGm.png" group-title="News",EN: BLOOMBERG AUSTRALIA 
+ https://liveprodapnortheast.akamaized.net/btv/desktop/aus_live.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="New group",92 News UK 
+ https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/uh8HAPY.jpg" group-title="New group",AVT KHYBER 
+ https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/master.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="" group-title="New group",DUNYA NEWS 
+ http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="New group",Dunya News 
+ https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="" group-title="New group",DUNYA NEWS 
+ https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/chunklist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/wY41F5k.png" group-title="New group",Express TV 
+ https://5d48372bad056.streamlock.net/expressdigital/livestream/chunklist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="" group-title="New group",JOO MUSIC 
+ https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/Hw94SaM.jpg" group-title="New group",Kay 2 
+ https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/GYZGWFy.png" group-title="New group",Kay2 TV 
+ https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/mqFWpXX.png" group-title="New group",Khyber Middle East TV 
+ https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/m8cS74j.png" group-title="New group",Minhaj TV 
+ https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="New group",Nazrana TV 
+ https://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="" group-title="New group",PTV SPORTS 
+ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="" group-title="New group",PTV SPORTS 
+ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/B5YD4pD.png" group-title="New group",Subrang TV (USA) 
+ https://cdn61.liveonlineservices.com/hls/subrang.m3u8
+ #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="New group",Zindagi TV 
+ https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+ 

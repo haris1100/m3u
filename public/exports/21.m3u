@@ -1,0 +1,188 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",3ABN KIDS TV 
+ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" group-title="Kids",Akaram Kidz 
+ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+ #EXTINF: -1 tvg-id="1" tvg-name="q" tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="Kids",a 
+ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic 
+ https://shls-cartoon-net-prod.shahid.net/cartoon-network-prod.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-name="CBeebies UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" group-title="Kids",Cbeebies 
+ http://51.52.156.22:8888/http/003
+ #EXTINF: -1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids",CCTV中国中央电视台-14 少儿 
+ http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
+ #EXTINF: -1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids",CCTV中国中央电视台-14 少儿 
+ http://117.148.187.37/PLTV/88888888/224/3221226565/index.m3u8
+ #EXTINF: -1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids",CCTV中国中央电视台-14 少儿 
+ http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
+ #EXTINF: -1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids",CCTV中国中央电视台-14 少儿 
+ http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-name="IL: Kan 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" group-title="Kids",ch 23 החינוכית 
+ https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="Kids",Discovery Kids 
+ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="HodHod TV" tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="Kids",Hodhod 
+ http://51.158.184.234/hls/stream.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png" group-title="Kids",IBC Kids 
+ https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif" group-title="Kids",KTV Kids 
+ https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids 
+ http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Lale 
+ http://stream.atr.ua/lale//live/index.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Kids",Nickelodeon 
+ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="Persiana 3 JUNIOR" tvg-logo="https://i.imgur.com/o9Gu7XX.png" group-title="Kids",Persiana 3 JUNIOR 
+ http://51.158.74.129/hls/stream.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon 
+ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wOxnItQ.png" group-title="Kids",Taha TV 
+ https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",TCT Kids 
+ https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-name="TRT Cocuk TR" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" group-title="Kids",TRT Cocuk 
+ https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",WOW!TV 
+ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="Kids",WZra Kids TV 
+ http://wpso.com:1936/hls/kidshd.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-name="Любимое.ТВ" tvg-logo="" group-title="Kids",Любимое.ТВ 
+ https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-name="Малятко TV" tvg-logo="https://iptvx.one/icn/maliatko-tv.png" group-title="Kids",Малятко TV 
+ http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
+ #EXTINF: -1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="" group-title="Kids",优漫卡通 
+ http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
+ #EXTINF: -1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="" group-title="Kids",优漫卡通 
+ http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
+ #EXTINF: -1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="" group-title="Kids",优漫卡通 
+ http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8
+ #EXTINF: -1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="" group-title="Kids",优漫卡通 
+ http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",北京卡酷少儿 
+ http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",北京卡酷少儿 
+ http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",北京卡酷少儿 
+ http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://i.imgur.com/YojAv3d.png" group-title="Kids",哈哈炫动Toon Max TV 
+ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+ #EXTINF: -1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="Kids",哈哈炫动卫视 
+ http://210.210.155.35/qwr9ew/s/s50/index.m3u8
+ #EXTINF: -1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://www.jiajiakt.com/images/global/logo.png" group-title="Kids",嘉佳卡通 
+ http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
+ #EXTINF: -1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="" group-title="Kids",嘉佳卡通 
+ http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",炫动卡通 
+ http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",炫动卡通 
+ http://121.31.30.90:8085/ysten-business/live/xuandongkaton/yst.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",炫动卡通 
+ http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",福州少儿 
+ http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+ #EXTINF: -1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="" group-title="Kids",金鹰卡通 
+ http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
+ #EXTINF: -1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="" group-title="Kids",金鹰卡通 
+ http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
+ #EXTINF: -1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="" group-title="Kids",金鹰卡通 
+ http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8
+ #EXTINF: -1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="" group-title="Kids",金鹰卡通 
+ http://223.82.250.72/live/jinyingkaton/1.m3u8
+ #EXTINF: -1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="" group-title="Kids",金鹰卡通 
+ http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" group-title="Kids",黑莓动画 (Backup) 
+ http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="24 Box TV" tvg-logo="https://i.imgur.com/HGmC8ea.png" group-title="Movies",24 Box TV 
+ http://51.158.190.97/hls/stream.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="Movies",24/7 Retro TV 
+ http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",ACN Cinema 
+ http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IDLUf7r.png" group-title="Movies",Bollywood Clasic 
+ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://m.imgur.com/4O7CPFq.png" group-title="Movies",Bollywood TV 
+ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+ #EXTINF: -1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="Movies",CCTV中国中央电视台-6 电影 
+ http://117.169.120.140:8080/live/cctv-6/.m3u8
+ #EXTINF: -1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="Movies",CCTV中国中央电视台-6 电影 
+ http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
+ #EXTINF: -1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="Movies",CCTV中国中央电视台-6 电影 
+ http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="Movies",Celestial Movies 
+ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+ #EXTINF: -1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://i.imgur.com/GjGiNIA.jpg" group-title="Movies",CHC高清电影 
+ http://ivi.bupt.edu.cn/hls/chchd.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/02/yuppclassicsmarathi.png" group-title="Movies",Classics Marathi 
+ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/Screenshot_2.png" group-title="Movies",Classics Tamil 
+ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yuppclassicstelugu.png" group-title="Movies",Classics Telugu 
+ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yuppcomedytelugu.png" group-title="Movies",Comedy Telugu 
+ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-name="Dubai One ARB" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Movies",Dubai One 
+ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="Movies",Groovy 
+ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="Movies",HBO Asia 
+ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+ #EXTINF: -1 tvg-id="" tvg-name="iFILM Arabic" tvg-logo="https://i.imgur.com/RPwKZUD.jpg" group-title="Movies",iFILM Arabic 
+ https://live.presstv.com/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="iFILM English" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies",iFILM English 
+ https://live1.presstv.com/live/ifilmen.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="iFILM Persian 1" tvg-logo="https://i.imgur.com/El4Ymh6.png" group-title="Movies",iFILM Persian 1 
+ https://live.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="iFILM Persian 2" tvg-logo="https://fa2.ifilmtv.com/img/test-final02.png" group-title="Movies",iFILM Persian 2 
+ https://live1.presstv.com/live/ifilm2.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Movies",Kuriakos Cine 
+ http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-name="MBC 2 ARB" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 HD 
+ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-name="MBC Action ARB" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action HD 
+ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-name="MBC Drama ARB" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama 
+ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-name="MBC Drama Plus ARB" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama PLUS 
+ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-name="MBC Max ARB" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",MBC Max HD 
+ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DzYqWhC.jpeg" group-title="Movies",Mix Hollywood 
+ http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/3.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="Movies",Movie Kingdom 
+ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" group-title="Movies",Movies Now 
+ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/19/1-191215202451457.jpg" group-title="Movies",NewTV未来电视 动作电影 (Backup) 
+ http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="Persiana 2 CINEMA" tvg-logo="https://i.imgur.com/OUu7eyJ.png" group-title="Movies",Persiana 2 CINEMA 
+ http://51.15.193.156/hls/stream.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yupppremiummarathi.png" group-title="Movies",Premium Marathi 
+ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/raj_digital_plus-1.png" group-title="Movies",Raj Digital Plus 
+ http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" group-title="Movies",Romedy Now 
+ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-name="Syria Drama ARB" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Movies",Syria Drama 
+ http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xDGoG1r.jpg" group-title="Movies",The Film Detective 
+ https://distro.akamaized.net/index.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Movies",Thrill 
+ http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="Movies",TV BNO 
+ http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bEoN2tt.png" group-title="Movies",TV Cinec 
+ http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hfia0wN.png" group-title="Movies",Wixlar 
+ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+ #EXTINF: -1 tvg-id="0" tvg-name="Классика Кино" tvg-logo="" group-title="Movies",Классика Кино 
+ https://strm.yandex.ru/kal/kinoclassic/kinoclassic0.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Остросюжетное HD 
+ http://188.35.9.26:14050/udp/238.0.14.3:69000
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Рен ТВ International 
+ https://sc.id-tv.kz/RenTV.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",СТРК HD 
+ http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+ #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="Movies",黑莓电影 
+ http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
+ 

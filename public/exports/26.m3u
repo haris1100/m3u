@@ -1,0 +1,101 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="472" tvg-name="CGTNDocumentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary (Backup)
+http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8
+#EXTINF: -1 tvg-id="905587" tvg-name="Discovery" tvg-logo="https://i.imgur.com/lVXlnL6.png" group-title="Documentary",Discovery
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/master.m3u8
+#EXTINF: -1 tvg-id="146486" tvg-name="cnex" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?deviceType=3&imageId=OTTLIVE_0000001752.png" group-title="Documentary",CNEX Taiwan
+http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
+#EXTINF: -1 tvg-id="381212" tvg-name="IRIB OFOGH" tvg-logo="https://i.imgur.com/7fh4LwG.png" group-title="Documentary",IRIB OFOGH
+https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="825322" tvg-name="La 2" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="Documentary",La 2
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF: -1 tvg-id="168087" tvg-name="NewTV未来电视 精品记录" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" group-title="Documentary",NewTV未来电视 精品记录
+http://117.148.187.37/PLTV/88888888/224/3221226763/index.m3u8
+#EXTINF: -1 tvg-id="936636" tvg-name="NewTV未来电视 精品记录" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" group-title="Documentary",NewTV未来电视 精品记录
+http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
+#EXTINF: -1 tvg-id="387545" tvg-name="Persiana 5 DOCUMENTARY" tvg-logo="https://i.imgur.com/Gmg0Y88.png" group-title="Documentary",Persiana 5 DOCUMENTARY
+http://163.172.174.60/hls/stream.m3u8
+#EXTINF: -1 tvg-id="655959" tvg-name="RT Д Русский" tvg-logo="https://i.imgur.com/C6fylkt.png" group-title="Documentary",RT Д Русский
+https://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF: -1 tvg-id="859818" tvg-name="RT Д Русский" tvg-logo="https://i.imgur.com/C6fylkt.png" group-title="Documentary",RT Д Русский
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF: -1 tvg-id="117082" tvg-name="RT Д Русский" tvg-logo="https://i.imgur.com/C6fylkt.png" group-title="Documentary",RT Д Русский
+https://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF: -1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="Education",CCTV中国中央电视台-10 科教
+http://117.169.120.140:8080/live/cctv-10/.m3u8
+#EXTINF: -1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="Education",CCTV中国中央电视台-10 科教
+http://121.31.30.90:8085/ysten-business/live/cctv-10/yst.m3u8
+#EXTINF: -1 tvg-id="639751" tvg-name="IRIB Amoozesh" tvg-logo="https://i.imgur.com/MbZtaDO.png" group-title="Education",IRIB Amoozesh
+https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="246593" tvg-name="Portal Cultura Pará" tvg-logo="https://i.imgur.com/TnSvJpd.png" group-title="Education",Portal Cultura Pará
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF: -1 tvg-id="577994" tvg-name="Santa Cecilia TV" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Education",Santa Cecilia TV
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+#EXTINF: -1 tvg-id="961301" tvg-name="Sesc TV" tvg-logo="https://i.imgur.com/IceKUjf.png" group-title="Education",Sesc TV
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
+#EXTINF: -1 tvg-id="814205" tvg-name="Syrian Education TV" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="Education",Syrian Education TV
+http://82.137.248.16:1935/SEdu/stream10112020/playlist.m3u8
+#EXTINF: -1 tvg-id="789456" tvg-name="TV Brasil" tvg-logo="https://i.imgur.com/Y0lCaVF.png" group-title="Education",TV Brasil
+https://video-rvd-mg-gw-1.rnp.br/live/ocp(t(FheNr9FaZ8o)r(TOqkzw)a(yJA-Sw)p(d(lCo)k(oxE)m(IA7b8MK4SkvqkeGRfgUSPg)n(a(x66bGg)s(oBw)'a(WePXYA)s(ayw)))s(s(x8E)b(UZYBQCCOIXDpAc8L34JabbY9Uic8qXiDP9HL9ICKVwRShvjUJo1x2bvu7genj1M8XOsj6FHY6bj6rrKxiw)'s(kNA)b(jvyfx
+#EXTINF: -1 tvg-id="143683" tvg-name="TV Cultura" tvg-logo="https://i.imgur.com/765Cn9I.png" group-title="Education",TV Cultura
+https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/playlist.m3u8
+#EXTINF: -1 tvg-id="100785" tvg-name="TV Educativa de Porto Alegre" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Education",TV Educativa de Porto Alegre
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF: -1 tvg-id="332221" tvg-name="TV Escola" tvg-logo="https://i.imgur.com/aU56c0K.png" group-title="Education",TV Escola
+https://video-rvd-lmg.rnp.br/live/ocp(t(FfZfeFx3QG4)r(TOqkzw)a(ut273w)p(d(lCo)k(ow4)m(U1zbeMZOcvuVp_PjPC5VeA)n(a(-xL_Aw)s(yeg)'a(vuk2sg)s(3Rc)))s(s(2h8)b(OVsX9brZ0psZeMaQYt9O46THOxFsPHFB6R_YrLO_lAYLehFKlBcB3utUOhZjyWY7C52ngNY4Ow9Ook29TA)'s(gRY)b(iE9B80a6s
+#EXTINF: -1 tvg-id="526179" tvg-name="TV Faap" tvg-logo="https://i.imgur.com/y2gZuyq.png" group-title="Education",TV Faap
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+#EXTINF: -1 tvg-id="695190" tvg-name="TV INES" tvg-logo="https://i.imgur.com/Uw5OVrp.png" group-title="Education",TV INES
+https://video-rvd-rj-gw-1.rnp.br/live/ocp(t(Fgpa5wEsuf8)r(TOqkzw)a(yRHT7Q)p(d(lCo)k(oxA)m(zMirtDXOzRiGFE--rICLPQ)n(a(Lthy3Q)s(Ej4)'a(NJwh9g)s(zXs)))s(s(s5s)b(1vFxfSl64lsyrMp-rgKYt3hj9N6RyXtaBnHJ8cHFqH-ECFVBTklzztk1TjHMW5HU5VgtntpS63HLliqmfw)'s(Sxk)b(AcTPB
+#EXTINF: -1 tvg-id="158366" tvg-name="TV Mackenzie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/320px-TV_Mackenzie_logo.svg.png" group-title="Education",TV Mackenzie
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF: -1 tvg-id="647764" tvg-name="TV O Povo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/55/Logotipo_da_TV_O_Povo.png" group-title="Education",TV O Povo
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+#EXTINF: -1 tvg-id="357869" tvg-name="TV UFG" tvg-logo="https://www.tvufg.org.br/wp-content/uploads/2018/10/logo_tv_ufg_azul_16bit.png" group-title="Education",TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+#EXTINF: -1 tvg-id="198653" tvg-name="TV UFOP" tvg-logo="https://radio.ufop.br/sites/default/files/15139691916641.png" group-title="Education",TV UFOP
+https://video-rvd-rj-1.rnp.br/live/ocp(t(Fgpcfnh3KgU)r(TOqkzw)a(yRHT7Q)p(d(lCo)k(oxA)m(1eGHl2pUSxJ7TH3XIGaRKQ)n(a(mavTDg)s(tA8)'a(BYMJ9A)s(554)))s(s(Nsg)b(wXYqxYsZIg8i7hBpwi99EyIPA4MiSGrf4xlb5wfrfhf_dEkV39LxBVffoEBwNgFDyvu3_Hg0nY2uoiye9g)'s(0Qg)b(FxHfCxL9
+#EXTINF: -1 tvg-id="125430" tvg-name="TV UFSC" tvg-logo="https://i.imgur.com/LuJkxc6.png" group-title="Education",TV UFSC
+http://150.162.188.10:8080/hls/1.m3u8
+#EXTINF: -1 tvg-id="544078" tvg-name="TV UNESP" tvg-logo="https://i.imgur.com/iwCbtKU.jpg" group-title="Education",TV UNESP
+https://video.unesp.br/live/indoor.m3u8
+#EXTINF: -1 tvg-id="558448" tvg-name="TV UNISC" tvg-logo="https://i.imgur.com/YgLLCq6.png" group-title="Education",TV UNISC
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF: -1 tvg-id="732682" tvg-name="TV Universitária Uberlândia" tvg-logo="https://i.imgur.com/mA0CaT4.png" group-title="Education",TV Universitária Uberlândia
+https://video-rvd-pe-cdc-gw-2-1.rnp.br/live/ocp(t(FgpbSWphmV8)r(TOqkzw)a(yRHT7Q)p(d(lCo)k(oxA)m(D0IhuSeyXeZ6SqsgNEaxUw)n(a(wz7XDA)s(ABE)'a(lYHl7Q)s(J0A)))s(s(eMM)b(got9k4aA9ycRf2LjxCyyG_gF3KqGLlrYnimMPIVQocDgoADKVqOkODoz9qqEMcpPIaaV0uef-Sr0dtGl-g)'s(rl0)b
+#EXTINF: -1 tvg-id="542723" tvg-name="TVU Recife" tvg-logo="https://i.imgur.com/8OrN6Gs.png" group-title="Education",TVU Recife
+http://150.161.93.220/hls/1080/index.m3u8
+#EXTINF: -1 tvg-id="572429" tvg-name="UniTV Porto Alegre" tvg-logo="" group-title="Education",UniTV Porto Alegre
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF: -1 tvg-id="715387" tvg-name="Vyas Higher Education Channel" tvg-logo="https://i.imgur.com/26lmooH.jpg" group-title="Education",Vyas Higher Education Channel
+https://playhls.media.nic.in/live/vyas/index.m3u8
+#EXTINF: -1 tvg-id="382104" tvg-name="空中英語教室" tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/08/Studio-Classroom-Logo-670x300.jpg" group-title="Education",空中英語教室
+http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
+#EXTINF: -1 tvg-id="417873" tvg-name="3 Tamil TV" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF: -1 tvg-id="698361" tvg-name="4U TV" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment",4U TV
+http://live.4ulive.ir/
+#EXTINF: -1 tvg-id="169809" tvg-name="7Star TV" tvg-logo="https://i.imgur.com/EaHWWNl.jpg" group-title="Entertainment",7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF: -1 tvg-id="8" tvg-name="8 канал" tvg-logo="http://tv8crimea.ru/wp-content/uploads/2017/11/1logo.png" group-title="Entertainment",8 Канал
+http://176.99.110.252/stream8/playlist.m3u8
+#EXTINF: -1 tvg-id="536247" tvg-name="Aarya Premiere" tvg-logo="" group-title="Entertainment",Aarya Premiere
+http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8
+#EXTINF: -1 tvg-id="678952" tvg-name="Aathavan TV" tvg-logo="https://i.imgur.com/IgwQ7o5.png" group-title="Entertainment",Aathavan TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF: -1 tvg-id="383896" tvg-name="ACB TV" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/5/5d/ACB_TV.svg/revision/latest/scale-to-width-down/150?cb=20171104164504&path-prefix=ru" group-title="Entertainment",ACB TV
+https://strm.yandex.ru/kal/acb/acb0.m3u8
+#EXTINF: -1 tvg-id="811131" tvg-name="Adult Swim" tvg-logo="https://i.imgur.com/ixywxhs.jpg" group-title="Entertainment",Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
+#EXTINF: -1 tvg-id="719311" tvg-name="AMG TV" tvg-logo="https://i.imgur.com/Wc6KQta.png" group-title="Entertainment",AMG TV
+https://nl.live21.ir/hls2/AMG.m3u8
+#EXTINF: -1 tvg-id="559836" tvg-name="Amma Channel" tvg-logo="" group-title="Entertainment",Amma Channel
+http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
+#EXTINF: -1 tvg-id="760936" tvg-name="Amrita TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/amrita_tv-1.png" group-title="Entertainment",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF: -1 tvg-id="611090" tvg-name="Arasan TV" tvg-logo="" group-title="Entertainment",Arasan TV
+http://ammacable.com:1935/acn/arasantv/playlist.m3u8
+#EXTINF: -1 tvg-id="146691" tvg-name="BlazeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/BlazeTVDec2018.png" group-title="Entertainment",BlazeTV
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
+#EXTINF: -1 tvg-id="298436" tvg-name="Buzzr" tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="Entertainment",Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
